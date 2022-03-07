@@ -1,0 +1,17 @@
+{
+  "name": "calculator-app",
+  "version": "1.0.0",
+  "description": "Calculator app in Node.js and using the Mocha testing framework.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^9.2.1"
+  }
+}
