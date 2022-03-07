@@ -1,5 +1,5 @@
 const operations = require('./utils.js');
-const assert = require('assert')
+const assert = require('assert');
 
 it('Correctly calculates the sum of 1 and 9', () => {
     assert.equal(operations.sum(1, 9), 10)
